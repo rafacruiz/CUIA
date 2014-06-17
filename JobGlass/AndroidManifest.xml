@@ -45,7 +45,17 @@
         <meta-data
     		android:name="com.google.android.maps.v2.API_KEY"
     		android:value="AIzaSyDAAoXtVkEC3dBeyxfDGEVWdXG_0qrzNAg"/>
+        <!-- Google Map -->
+         <activity
+            android:name="com.example.jobglass.Maps"
+            android:label="@string/maps" >
+        </activity>
         
+        <!-- Test -->
+        <activity
+            android:name="com.example.jobglass.Test"
+            android:label="@string/test" >
+        </activity>
         
     </application>
 

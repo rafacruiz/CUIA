@@ -15,6 +15,15 @@
         android:onClick="get_Maps"
         android:text="Google Maps" />
 
+        <Button
+            android:id="@+id/bTest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="110dp"
+            android:layout_y="216dp"
+            android:onClick="get_Test"
+            android:text="Test" />
+
 </AbsoluteLayout>
 
 

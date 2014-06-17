@@ -1474,6 +1474,7 @@ containing a value of this type.
         public static final int activity_chooser_view_content=0x7f070037;
         public static final int always=0x7f07001e;
         public static final int bMaps=0x7f07004f;
+        public static final int bTest=0x7f070050;
         public static final int beginning=0x7f070023;
         public static final int book_now=0x7f070010;
         public static final int buyButton=0x7f07000a;
@@ -1485,6 +1486,7 @@ containing a value of this type.
         public static final int container=0x7f07004e;
         public static final int default_activity_button=0x7f07003a;
         public static final int dialog=0x7f070021;
+        public static final int digitalClock1=0x7f070052;
         public static final int disableHome=0x7f07001b;
         public static final int dropdown=0x7f070022;
         public static final int edit_query=0x7f070042;
@@ -1502,8 +1504,8 @@ containing a value of this type.
         public static final int image=0x7f070039;
         public static final int listMode=0x7f070014;
         public static final int list_item=0x7f07003b;
-        public static final int map=0x7f070050;
-        public static final int maps=0x7f070051;
+        public static final int map=0x7f070051;
+        public static final int maps=0x7f070053;
         public static final int match_parent=0x7f07000c;
         public static final int middle=0x7f070024;
         public static final int monochrome=0x7f070013;
@@ -1598,6 +1600,7 @@ containing a value of this type.
         public static final int fragment_main=0x7f030019;
         public static final int maps=0x7f03001a;
         public static final int support_simple_spinner_dropdown_item=0x7f03001b;
+        public static final int test=0x7f03001c;
     }
     public static final class menu {
         public static final int main=0x7f0c0000;
@@ -1742,6 +1745,7 @@ containing a value of this type.
         public static final int common_signin_button_text_long=0x7f05001e;
         public static final int hello_world=0x7f05002e;
         public static final int maps=0x7f050030;
+        public static final int test=0x7f050031;
         /**  Text on a placeholder buy button when Google Play services is not
          available or up-to-date 
          */
